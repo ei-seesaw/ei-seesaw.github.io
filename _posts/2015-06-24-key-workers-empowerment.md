@@ -5,6 +5,7 @@ subtitle:   "Key to Empowerment?"
 date:       2015-06-25 12:00:00
 author:     "Claire Rowland"
 header-img: "img/post-bg-01.jpg"
+comments: true
 ---
 
 After a year seeing individual Speech Therapists, Occupational therapists and Physios, we are being farmed from the public into the private/non-governmental system on the basis that we are likely to get Better Start funding. Cause for celebration? After my recent meeting with my new Key Worker (coordinator, contact point and therapist), I'm not entirely certain. 
