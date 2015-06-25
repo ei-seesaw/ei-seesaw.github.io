@@ -9,7 +9,7 @@ title: Contact
     <p class="intro">If you want to get touch please fill this form out.</p>
     <p>I'll try and get back to as soon as possible.</p>
   </div>
-  <form action="http://formspree.io/clairelrowland@gmail.com">
+  <form action="http://formspree.io/clairelrowland@gmail.com" method="POST">
     <label for="name">Name</label>    
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
