@@ -8,7 +8,6 @@ header-img: "img/post-bg-01.jpg"
 comments: true
 ---
 
-Key Worker Woes
 
 After a year of therapy through the local health system, the promise of Better Start funding has meant my son now has access to subsidized non-government services. I feel vaguely excited about the idea. I find a well-reputed, nonprofit service provider, and a Key Worker (coordinator, contact point and multidisciplinary therapist) is appointed.
 
