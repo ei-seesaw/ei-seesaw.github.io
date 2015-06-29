@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Contact 
+title: Contact Early Intervention See-Saw
+description: Contact Early Intervention See-Saw
 ---
 
 <div id="contact">

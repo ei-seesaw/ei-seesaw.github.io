@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About Early Intervention See-Saw
+description: About Early Intervention See-Saw
 ---
 ### Welcome to the Early Intervention See-Saw blog!
 
