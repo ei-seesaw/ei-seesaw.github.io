@@ -1,10 +1,12 @@
 title: Early Intervention See Saw 
 description: Ups and downs..blah 
 
-url: http://brianmaierjr.github.com/long-haul
+url: "" 
 baseurl: ""
 paginate_path: "blog/page:num/"
-permalink: blog/:title/
+permalink: pretty
+#permalink: blog/:title/
+#relative_permalinks: true
 
 markdown: redcarpet
 highlighter: pygments
@@ -22,6 +24,6 @@ social:
    github: 
    twitter: eiseesaw
    facebook: 
-   email: clairelrowland@gmail.com
+   email: 
 
-google_analytics: ""
+google_analytics: "UA-64592413-1"
