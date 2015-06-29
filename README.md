@@ -1,4 +1,4 @@
-[![Travis CI Build Status](https://api.travis-ci.org/ei-seesaw/ei-seesaw.github.io.svg "Travis CI Build Status")](https://travis-ci.org/ei-seesaw/ei-seesaw.github.io)
+[![Build Status](https://travis-ci.org/ei-seesaw/ei-seesaw.github.io.svg?branch=master)](https://travis-ci.org/ei-seesaw/ei-seesaw.github.io)
 
 #### Early Intervention See-Saw Blog source code
 
