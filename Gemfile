@@ -3,4 +3,4 @@ gem 'github-pages'
 gem 'html-proofer'
 gem 'susy'
 gem 'normalize-scss'
-
+gem 'jekyll-sitemap'

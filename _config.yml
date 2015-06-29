@@ -27,3 +27,7 @@ social:
    email: 
 
 google_analytics: "UA-64592413-1"
+
+gems:
+  - jekyll-sitemap
+
