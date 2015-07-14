@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "Key Worker Woes"
-description: "Key worker woes"
 subtitle: 
 date:       2015-06-25 12:00:00
 author:     
